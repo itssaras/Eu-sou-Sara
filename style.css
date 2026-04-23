@@ -1,0 +1,39 @@
+img{
+    width: 4%;
+    height: 30px;
+    border-radius: 50%;
+    margin : 10px;
+}
+
+header{
+    display: flex;
+    gap: 5px;
+    background-color: #8a2be2;
+    padding: 0;
+    align-items: center;
+    width: 100%;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-color: white;
+}
+
+.sara{
+    color: white;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    margin: 10px;
+    color: yellowgreen;
+
+}
+p{
+    margin: 20px;
+}
+
+body{
+    margin: 0;
+}
+
+
